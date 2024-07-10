@@ -1,23 +1,25 @@
 # About Me 👋
 
-Hello! I'm Thapanan, a software engineer with expertise in server management and help desk operations. I have a strong interest in web development and UI design, particularly in using frameworks like Next.js and Tailwind CSS.
+Hello! I'm Thapanan, i want to be software engineer 
 
-## Expertise 🛠️
-- **IT Support**: Experienced in providing technical support and troubleshooting for various IT-related issues.
-- **Server Management**: Skilled in managing and maintaining server infrastructure.
-- **Help Desk Operations**: Proficient in delivering efficient help desk support and resolving user inquiries.
-- **Web Development**: Passionate about web development with hands-on experience in Next.js routing and Tailwind CSS layout design.
+## Job Interests 🛠️
+- **Software Engineering**
+- **Web Development**
+- **Database Administrator**
+- **Programmer**
 
-## Current Interests 🌟
-- **Next.js**: Exploring advanced routing techniques and best practices.
-- **Tailwind CSS**: Studying grid systems and layout designs to create responsive and aesthetically pleasing web interfaces.
-- **University Rankings in Thailand**: Keeping up-to-date with the latest rankings and developments in higher education.
-
-## Projects 🚀
-- [Project 1]: Brief description of what this project is about.
-- [Project 2]: Brief description of what this project is about.
+## Tool/Framework 🌟
+- **REACT**
+- **Tailwind CSS**
+- **MUI**
+- **PHP**
+- **JAVA**
+- **NodeJS**
+- **SQL**
+- **MongoDB**
+- **VB**
 
 ## Contact 📫
 - **Email**: [Your Email]
-- **LinkedIn**: [Your LinkedIn Profile]
+- **LinkedIn**: [https://www.linkedin.com/in/thapanan-kulab-0a5803317/]
 - **GitHub**: https://github.com/ThapananKulab/
