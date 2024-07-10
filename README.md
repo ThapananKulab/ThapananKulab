@@ -20,6 +20,6 @@ Hello! I'm Thapanan, i want to be software engineer
 - **VB**
 
 ## Contact 📫
-- **Email**: [Your Email]
-- **LinkedIn**: [https://www.linkedin.com/in/thapanan-kulab-0a5803317/]
-- **GitHub**: https://github.com/ThapananKulab/
+- **Email**: thapanan.kularb@gmail.com
+- **LinkedIn**: https://www.linkedin.com/in/thapanan-kulab-0a5803317
+- **GitHub**: https://github.com/ThapananKulab
